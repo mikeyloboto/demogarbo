@@ -1,0 +1,1292 @@
+apiVersion: v1
+entries:
+  oam-runtime:
+  - apiVersion: v2
+    appVersion: 1.1.11
+    created: "2021-11-30T11:05:47.709845599Z"
+    description: A Helm chart for oam-runtime aligns with OAM spec v0.2
+    digest: 9191214893b1af029119438c9297e37dc69df5b2b900cf06027675965817535a
+    name: oam-runtime
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/oam-runtime-1.1.11.tgz
+    version: 1.1.11
+  - apiVersion: v2
+    appVersion: 1.1.10
+    created: "2021-11-30T11:05:47.707703882Z"
+    description: A Helm chart for oam-runtime aligns with OAM spec v0.2
+    digest: 18ecae9d389e5f58f1c64d0ade0d19c7607ffbedee33bbc4912d721e20778340
+    name: oam-runtime
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/oam-runtime-1.1.10.tgz
+    version: 1.1.10
+  - apiVersion: v2
+    appVersion: 1.1.9
+    created: "2021-11-30T11:05:47.725913022Z"
+    description: A Helm chart for oam-runtime aligns with OAM spec v0.2
+    digest: a2cf0e130df475116da2259fb4ec79020f3f10a6cd576a2696e62ffdcf64e4c3
+    name: oam-runtime
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/oam-runtime-1.1.9.tgz
+    version: 1.1.9
+  - apiVersion: v2
+    appVersion: 1.1.8
+    created: "2021-11-30T11:05:47.724195949Z"
+    description: A Helm chart for oam-runtime aligns with OAM spec v0.2
+    digest: 04a0b972b3fe49d9797e2166363866e16d30479b47683fe9f6c670ac0e7108a3
+    name: oam-runtime
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/oam-runtime-1.1.8.tgz
+    version: 1.1.8
+  - apiVersion: v2
+    appVersion: 1.1.7
+    created: "2021-11-30T11:05:47.72242357Z"
+    description: A Helm chart for oam-runtime aligns with OAM spec v0.2
+    digest: 6a2c1ff677ff4878cf168ed01eb7ec9b140c1dd89b576107340847770b4384ef
+    name: oam-runtime
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/oam-runtime-1.1.7.tgz
+    version: 1.1.7
+  - apiVersion: v2
+    appVersion: 1.1.6
+    created: "2021-11-30T11:05:47.720672093Z"
+    description: A Helm chart for oam-runtime aligns with OAM spec v0.2
+    digest: 8611604770c07cc7c2f595ea48f793c5eae5c800b3bb73b29385974a64cfac8f
+    name: oam-runtime
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/oam-runtime-1.1.6.tgz
+    version: 1.1.6
+  - apiVersion: v2
+    appVersion: 1.1.5
+    created: "2021-11-30T11:05:47.717800403Z"
+    description: A Helm chart for oam-runtime aligns with OAM spec v0.2
+    digest: 57bc63ad3abe7fe2cd006a345a8ddda27aee869c5b7f74fb456ec95cd75ad4a0
+    name: oam-runtime
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/oam-runtime-1.1.5.tgz
+    version: 1.1.5
+  - apiVersion: v2
+    appVersion: 1.1.4
+    created: "2021-11-30T11:05:47.715411461Z"
+    description: A Helm chart for oam-runtime aligns with OAM spec v0.2
+    digest: 616349a962bfb373ef4a2baf887a84d5487bd27267039eb0293b10b0a0b88af2
+    name: oam-runtime
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/oam-runtime-1.1.4.tgz
+    version: 1.1.4
+  - apiVersion: v2
+    appVersion: 1.1.3
+    created: "2021-11-30T11:05:47.713462764Z"
+    description: A Helm chart for oam-runtime aligns with OAM spec v0.2
+    digest: 5fec0679490ce874ef335148ef4fe45da26154d300950365fd3497d7b58c391b
+    name: oam-runtime
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/oam-runtime-1.1.3.tgz
+    version: 1.1.3
+  - apiVersion: v2
+    appVersion: 1.1.2
+    created: "2021-11-30T11:05:47.711652081Z"
+    description: A Helm chart for oam-runtime aligns with OAM spec v0.2
+    digest: 8503811a0782bbe5df65e61857658f10af57c5ee4ed68cc3ce3ccdceb6a293a6
+    name: oam-runtime
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/oam-runtime-1.1.2.tgz
+    version: 1.1.2
+  - apiVersion: v2
+    appVersion: 1.1.1
+    created: "2021-11-30T11:05:47.704725181Z"
+    description: A Helm chart for oam-runtime aligns with OAM spec v0.2
+    digest: 6d71d7d6a48811dfc00f5251f7a9e04344831a68da6a5ff787ba55d40f37f5a2
+    name: oam-runtime
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/oam-runtime-1.1.1.tgz
+    version: 1.1.1
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2021-11-30T11:05:47.702198226Z"
+    description: A Helm chart for oam-runtime aligns with OAM spec v0.2
+    digest: b7c0c7b3d00582dcd3c6f88e1e4bc5c699d7424a0df42d65f8d735f606c03567
+    name: oam-runtime
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/oam-runtime-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v2
+    appVersion: 1.1.0-nightly-build
+    created: "2021-11-30T11:05:47.699924496Z"
+    description: A Helm chart for oam-runtime aligns with OAM spec v0.2
+    digest: ef97a6376cdb033057ddfb9e73778722017489f4c0b19418ccc8ccedc2dd6371
+    name: oam-runtime
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/oam-runtime-1.1.0-nightly-build.tgz
+    version: 1.1.0-nightly-build
+  vela-core:
+  - apiVersion: v2
+    appVersion: 1.1.11
+    created: "2021-11-30T11:05:48.00931276Z"
+    description: A Helm chart for KubeVela core
+    digest: 916147d8268e80a785519362b65596ed609dbd632866c024a0e935d30d30c6a9
+    home: https://kubevela.io
+    icon: https://kubevela.io/img/logo.jpg
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.1.11.tgz
+    version: 1.1.11
+  - apiVersion: v2
+    appVersion: 1.1.10
+    created: "2021-11-30T11:05:48.000934513Z"
+    description: A Helm chart for KubeVela core
+    digest: b98d9ab9efdabfd05861647d164afee064ca5818d7597c67452fb8873d434a1e
+    home: https://kubevela.io
+    icon: https://kubevela.io/img/logo.jpg
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.1.10.tgz
+    version: 1.1.10
+  - apiVersion: v2
+    appVersion: 1.1.9
+    created: "2021-11-30T11:05:48.076627962Z"
+    description: A Helm chart for KubeVela core
+    digest: babfbc800e948624ed4c04d6c81ac4048abf9803bdcab9741d01a1bb9a6ddf82
+    home: https://kubevela.io
+    icon: https://kubevela.io/img/logo.jpg
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.1.9.tgz
+    version: 1.1.9
+  - apiVersion: v2
+    appVersion: 1.1.8
+    created: "2021-11-30T11:05:48.067618452Z"
+    description: A Helm chart for KubeVela core
+    digest: ee3439fb7acb8bf6b99651fdeb4700c0088c18689318528575d9e88c789f8da7
+    home: https://kubevela.io
+    icon: https://kubevela.io/img/logo.jpg
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.1.8.tgz
+    version: 1.1.8
+  - apiVersion: v2
+    appVersion: 1.1.7
+    created: "2021-11-30T11:05:48.059151896Z"
+    description: A Helm chart for KubeVela core
+    digest: 36067c9485d62e8e81f4864666deb67cf93a270e22adf6c030c482e31f68292b
+    home: https://kubevela.io
+    icon: https://kubevela.io/img/logo.jpg
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.1.7.tgz
+    version: 1.1.7
+  - apiVersion: v2
+    appVersion: 1.1.6
+    created: "2021-11-30T11:05:48.051400713Z"
+    description: A Helm chart for KubeVela core
+    digest: 9b844fcc328c43a96857e156510530826c96b7aa23daeba299154a078586d87e
+    home: https://kubevela.io
+    icon: https://kubevela.io/img/logo.jpg
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.1.6.tgz
+    version: 1.1.6
+  - apiVersion: v2
+    appVersion: 1.1.5
+    created: "2021-11-30T11:05:48.042891853Z"
+    description: A Helm chart for KubeVela core
+    digest: bdd9fda95c6a588d67c5fd1a1cd2e6708003df9fc904043d1d3e17c3261c09b6
+    home: https://kubevela.io
+    icon: https://kubevela.io/img/logo.jpg
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.1.5.tgz
+    version: 1.1.5
+  - apiVersion: v2
+    appVersion: 1.1.4
+    created: "2021-11-30T11:05:48.034223077Z"
+    description: A Helm chart for KubeVela core
+    digest: f7bf4c8e4b1a8e17b348e606d62607d372873c606d0b965b6537d62e3b868602
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.1.4.tgz
+    version: 1.1.4
+  - apiVersion: v2
+    appVersion: 1.1.3
+    created: "2021-11-30T11:05:48.025902736Z"
+    description: A Helm chart for KubeVela core
+    digest: 746b6dc919c0f14d1f83a05bdc6e5a614db80ce0c83469bef30e14d5b6251c79
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.1.3.tgz
+    version: 1.1.3
+  - apiVersion: v2
+    appVersion: 1.1.2
+    created: "2021-11-30T11:05:48.017686606Z"
+    description: A Helm chart for KubeVela core
+    digest: db2461454e3263566e65f2155851d614c91d4a0cd13260ce39d06e79618443b6
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.1.2.tgz
+    version: 1.1.2
+  - apiVersion: v2
+    appVersion: 1.1.1
+    created: "2021-11-30T11:05:47.991940105Z"
+    description: A Helm chart for KubeVela core
+    digest: 03f98cd43dee83998cdd7562779bf3b390d4a49831f7917c2432e2bfb5fca42f
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.1.1.tgz
+    version: 1.1.1
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2021-11-30T11:05:47.983027104Z"
+    description: A Helm chart for KubeVela core
+    digest: 569b82a59230f639778b1abd7a69d5d1c42f37c216b66edae1472330abb110d0
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v2
+    appVersion: 1.1.0-rc.2
+    created: "2021-11-30T11:05:47.973623154Z"
+    description: A Helm chart for KubeVela core
+    digest: 5fcd024090fa837bf3255b45e003ba480b2128e77d1cd444c9326835e4de9fb3
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.1.0-rc.2.tgz
+    version: 1.1.0-rc.2
+  - apiVersion: v2
+    appVersion: 1.1.0-rc.1
+    created: "2021-11-30T11:05:47.963716253Z"
+    description: A Helm chart for KubeVela core
+    digest: 5693e63e3e8840df60bf1f0abeb4e20e41fccdaa27790cdc027a345d830d68c4
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.1.0-rc.1.tgz
+    version: 1.1.0-rc.1
+  - apiVersion: v2
+    appVersion: 1.1.0-nightly-build
+    created: "2021-11-30T11:05:47.954795051Z"
+    description: A Helm chart for KubeVela core
+    digest: bf00b42913d7c2f6781aa62fb495ba107b0748299e46fcd81f3f2e83780af44b
+    home: https://kubevela.io
+    icon: https://kubevela.io/img/logo.jpg
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.1.0-nightly-build.tgz
+    version: 1.1.0-nightly-build
+  - apiVersion: v2
+    appVersion: 1.1.0-beta.3
+    created: "2021-11-30T11:05:47.946793642Z"
+    description: A Helm chart for KubeVela core
+    digest: b935b92c7a1e88d706c62fdc9ca19033fefd918555fb14b55d6fc243d741ac89
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.1.0-beta.3.tgz
+    version: 1.1.0-beta.3
+  - apiVersion: v2
+    appVersion: 1.1.0-beta.2
+    created: "2021-11-30T11:05:47.93528548Z"
+    description: A Helm chart for KubeVela core
+    digest: 34370542f26b2bc8fa070092f9563acbb7aa26b15ee61e5a5042a7de525f5c36
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.1.0-beta.2.tgz
+    version: 1.1.0-beta.2
+  - apiVersion: v2
+    appVersion: 1.1.0-beta.1
+    created: "2021-11-30T11:05:47.925881829Z"
+    description: A Helm chart for KubeVela core
+    digest: 8eefcf2d9b4f744be8214f7c2794df71214e39e15db606816595a0a04b783bb9
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.1.0-beta.1.tgz
+    version: 1.1.0-beta.1
+  - apiVersion: v2
+    appVersion: 1.1.0-alpha.5
+    created: "2021-11-30T11:05:47.91827056Z"
+    description: A Helm chart for KubeVela core
+    digest: f25d698a7ea9b68a5a233a4cc7788e98d084a1e06691efd0339199d58639188e
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.1.0-alpha.5.tgz
+    version: 1.1.0-alpha.5
+  - apiVersion: v2
+    appVersion: 1.1.0-alpha.4
+    created: "2021-11-30T11:05:47.911693296Z"
+    description: A Helm chart for KubeVela core
+    digest: 19767608ee1b9d5335a91b862e6182674b226e25d2d337f6264e931b888c8ce6
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.1.0-alpha.4.tgz
+    version: 1.1.0-alpha.4
+  - apiVersion: v2
+    appVersion: 1.1.0-alpha.3
+    created: "2021-11-30T11:05:47.906774899Z"
+    description: A Helm chart for KubeVela core
+    digest: 69e8522b2a6feef50d3e21db11fca75ffc23c459b947e3aa753d8eb8e80966b7
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.1.0-alpha.3.tgz
+    version: 1.1.0-alpha.3
+  - apiVersion: v2
+    appVersion: 1.1.0-alpha.2
+    created: "2021-11-30T11:05:47.900999215Z"
+    description: A Helm chart for KubeVela core
+    digest: 3fc540438e02a78d9c67d6ff2f323e3306df8afe8c2e54f57c69478aec48bd4d
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.1.0-alpha.2.tgz
+    version: 1.1.0-alpha.2
+  - apiVersion: v2
+    appVersion: 1.1.0-alpha.1
+    created: "2021-11-30T11:05:47.89541385Z"
+    description: A Helm chart for KubeVela core
+    digest: 12202aa7b7ecdd9d394920ee5328e937ec7eb76635706d8e1066ca0b75ea6fee
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.1.0-alpha.1.tgz
+    version: 1.1.0-alpha.1
+  - apiVersion: v2
+    appVersion: 1.0.7
+    created: "2021-11-30T11:05:47.889995303Z"
+    description: A Helm chart for KubeVela core
+    digest: 6f7df562900a88434d054f97436eba23c237cb80c5e9e26a94d1760cf7fb7619
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.0.7.tgz
+    version: 1.0.7
+  - apiVersion: v2
+    appVersion: 1.0.6
+    created: "2021-11-30T11:05:47.884807179Z"
+    description: A Helm chart for KubeVela core
+    digest: 0bd489d70b77a9e451e300caaf106fc36215838a4f2ddcc165d4854b0ff54938
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.0.6.tgz
+    version: 1.0.6
+  - apiVersion: v2
+    appVersion: 1.0.5
+    created: "2021-11-30T11:05:47.878876579Z"
+    description: A Helm chart for KubeVela core
+    digest: 630f1cbdd82f5b59454b7ee37de6bfa639fd798021dccc31fd24af82e6e67d38
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.0.5.tgz
+    version: 1.0.5
+  - apiVersion: v2
+    appVersion: 1.0.4
+    created: "2021-11-30T11:05:47.874259513Z"
+    description: A Helm chart for KubeVela core
+    digest: 1d463f7a497bbf42c04658c07b0b22bdd0b78af12716f600a3f6a5ebf93383dc
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.0.4.tgz
+    version: 1.0.4
+  - apiVersion: v2
+    appVersion: 1.0.3
+    created: "2021-11-30T11:05:47.867768257Z"
+    description: A Helm chart for KubeVela core
+    digest: 8e1cecd3ddb516fbfa7e029478b11290f6973b18c7d8d7b4b53b9b366c5cdd1b
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.0.3.tgz
+    version: 1.0.3
+  - apiVersion: v2
+    appVersion: 1.0.2
+    created: "2021-11-30T11:05:47.861901064Z"
+    description: A Helm chart for KubeVela core
+    digest: 74723ecde3bf25382bf9bbdb5a251f76198db4d1723e49f635d53f4d02b50d65
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v2
+    appVersion: 1.0.1
+    created: "2021-11-30T11:05:47.855850253Z"
+    description: A Helm chart for KubeVela core
+    digest: 2cd6dd1cbce1fe4a775d1561f5be24a72cb6e7463c3546217948867fa515f0ee
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-11-30T11:05:47.850103472Z"
+    description: A Helm chart for KubeVela core
+    digest: 8f277a3e357dcbd9bd90b170957081f30714e1c2242622aedc306f430ee99b18
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v2
+    appVersion: 1.0.0-rc2
+    created: "2021-11-30T11:05:47.845184475Z"
+    description: A Helm chart for KubeVela core
+    digest: 9b210f0c8ddee0213996ed2da87396ea99ee00a708958653357275261314989c
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.0.0-rc2.tgz
+    version: 1.0.0-rc2
+  - apiVersion: v2
+    appVersion: 1.0.0-rc1
+    created: "2021-11-30T11:05:47.84087784Z"
+    description: A Helm chart for KubeVela core
+    digest: dc58c86665d269b4d5eef5cab369d9b9782d25973f8d641691187a46543966aa
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-1.0.0-rc1.tgz
+    version: 1.0.0-rc1
+  - apiVersion: v2
+    appVersion: 0.4.0-rc-master
+    created: "2021-11-30T11:05:47.83633438Z"
+    description: A Helm chart for KubeVela core
+    digest: 653f28b0c0258f0f25f5f5b543a7d39bf531f094f4b149badc73e40034370372
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-0.4.0-rc-master.tgz
+    version: 0.4.0-rc-master
+  - apiVersion: v2
+    appVersion: 0.3.9
+    created: "2021-11-30T11:05:47.830869528Z"
+    description: A Helm chart for KubeVela core
+    digest: 8423f45d3d85bf581eb2176ae9cbbb4efaf838da4a549f6870d518e0b51a4a10
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-0.3.9.tgz
+    version: 0.3.9
+  - apiVersion: v2
+    appVersion: 0.3.8
+    created: "2021-11-30T11:05:47.818575486Z"
+    description: A Helm chart for KubeVela core
+    digest: 1c79b89953af17716c2ad5fb714e4d21f27b69d8053db8643c77d6eea8934731
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-0.3.8.tgz
+    version: 0.3.8
+  - apiVersion: v2
+    appVersion: 0.3.7
+    created: "2021-11-30T11:05:47.811222343Z"
+    description: A Helm chart for KubeVela core
+    digest: 44870dd8d37a00050fab2dbc7856abf73d7d8e83a0ac8e36eea49c4267d95688
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-0.3.7.tgz
+    version: 0.3.7
+  - apiVersion: v2
+    appVersion: 0.3.6
+    created: "2021-11-30T11:05:47.797556762Z"
+    description: A Helm chart for KubeVela core
+    digest: d53ece028c90373cf8143c8dcdac843b3e31cd465b68f6819dca129e4c2416d4
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-0.3.6.tgz
+    version: 0.3.6
+  - apiVersion: v2
+    appVersion: 0.3.5
+    created: "2021-11-30T11:05:47.786612356Z"
+    description: A Helm chart for KubeVela core
+    digest: 2f9eeb4f0dcd3084c5eee3a0e4e69cd402205113e2687799258f9355a4c65ee5
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-0.3.5.tgz
+    version: 0.3.5
+  - apiVersion: v2
+    appVersion: 0.3.4
+    created: "2021-11-30T11:05:47.775055688Z"
+    description: A Helm chart for KubeVela core
+    digest: 6bf9f86a2c6dd8ca2501371a79a33b604a88afc3df88ce700c10e39952e08c56
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-0.3.4.tgz
+    version: 0.3.4
+  - apiVersion: v2
+    appVersion: 0.3.3
+    created: "2021-11-30T11:05:47.763263397Z"
+    description: A Helm chart for KubeVela core
+    digest: 647f6bec177a35bc914bb79daf6e21f1e66a93a2a07ecc63f04931e854959bcf
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-0.3.3.tgz
+    version: 0.3.3
+  - apiVersion: v2
+    appVersion: 0.3.2
+    created: "2021-11-30T11:05:47.749587015Z"
+    description: A Helm chart for Kube Vela core
+    digest: acf49d7bd4e897a4a7093a19d2f6c792fa0ad95ae3d02bbf79c380d501d92cba
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-0.3.2.tgz
+    version: 0.3.2
+  - apiVersion: v2
+    appVersion: 0.3.1
+    created: "2021-11-30T11:05:47.738713116Z"
+    description: A Helm chart for Kube Vela core
+    digest: 44ec2459704fea18c01ce4e6fb6b9fb73d6262e1e6360e56c9945c50e390f740
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-0.3.1.tgz
+    version: 0.3.1
+  vela-core-legacy:
+  - apiVersion: v1
+    appVersion: 1.1.11
+    created: "2021-11-30T11:05:48.309149259Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 4cf95176051cbcb067e4bedb1d8ae0d9048698309969ed31f7f707590356f71d
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.1.11.tgz
+    version: 1.1.11
+  - apiVersion: v1
+    appVersion: 1.1.10
+    created: "2021-11-30T11:05:48.298041336Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 0eeb5498ad32ea09cc931509051f960f813766c7f90b32d5655040ad8c9f4bca
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.1.10.tgz
+    version: 1.1.10
+  - apiVersion: v1
+    appVersion: 1.1.9
+    created: "2021-11-30T11:05:48.399295168Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 84d1857e664d5eed09cc866c5ca50bb578e7c2d59bb578ae9af9354bccf57a4e
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.1.9.tgz
+    version: 1.1.9
+  - apiVersion: v1
+    appVersion: 1.1.8
+    created: "2021-11-30T11:05:48.387979025Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 025d69d11c1c411e700252a5a2c12e7abc84f5f4712512bbc81ab5c8201f0d70
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.1.8.tgz
+    version: 1.1.8
+  - apiVersion: v1
+    appVersion: 1.1.7
+    created: "2021-11-30T11:05:48.376891804Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 51a0b031cd83a18c7cf4ad008c79b74bbd43537f7ece91034ca389294b11dc5c
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.1.7.tgz
+    version: 1.1.7
+  - apiVersion: v1
+    appVersion: 1.1.6
+    created: "2021-11-30T11:05:48.365847688Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 0ba3a15e3aac1bdd5b96bffc300ef2ddad689532cf695f61825fc85086242bc5
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.1.6.tgz
+    version: 1.1.6
+  - apiVersion: v1
+    appVersion: 1.1.5
+    created: "2021-11-30T11:05:48.355731366Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 53ec4f31f98c15b26c7846dc675b96b84704600971e7e4836043ec2368b0375a
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.1.5.tgz
+    version: 1.1.5
+  - apiVersion: v1
+    appVersion: 1.1.4
+    created: "2021-11-30T11:05:48.342978977Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 8bd5c43befe0175ad566a883e7e04a4226725de5de9aba73ec587641330a0fe2
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.1.4.tgz
+    version: 1.1.4
+  - apiVersion: v1
+    appVersion: 1.1.3
+    created: "2021-11-30T11:05:48.331603828Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: d0a326a037248fa06801ee3c12f8e66cdac3363934e72ad2cd523e875f8657f3
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.1.3.tgz
+    version: 1.1.3
+  - apiVersion: v1
+    appVersion: 1.1.2
+    created: "2021-11-30T11:05:48.320258481Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 48a459438e6c113b4e8c40c132a302cf84ef3b0d09bb3c6f749304f2acb8d5c2
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.1.2.tgz
+    version: 1.1.2
+  - apiVersion: v1
+    appVersion: 1.1.1
+    created: "2021-11-30T11:05:48.287179839Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 17ff1e596e235ea089776afc302a045a0d9059bb34aa2a6c1fe6152494907d42
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.1.1.tgz
+    version: 1.1.1
+  - apiVersion: v1
+    appVersion: 1.1.0
+    created: "2021-11-30T11:05:48.276660476Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: c88432db0d0753d21f13e4673bd7a3f32b9dbaa895c62d9c5d82382b54ef153a
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v1
+    appVersion: 1.1.0-rc-master
+    created: "2021-11-30T11:05:48.246976276Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: d7a71a24de415b3692e64bf12e67564b88ced336cef3f66f633fa644726ff4c1
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.1.0-rc-master.tgz
+    version: 1.1.0-rc-master
+  - apiVersion: v1
+    appVersion: 1.1.0-rc.2
+    created: "2021-11-30T11:05:48.266795279Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 7ed5eb1aa710b45d2b98f043e926662e578a6e9389139b1df9c0488a2199a951
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.1.0-rc.2.tgz
+    version: 1.1.0-rc.2
+  - apiVersion: v1
+    appVersion: 1.1.0-rc.1
+    created: "2021-11-30T11:05:48.25691298Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 8c36766ddb3fea83463e94e178cf2f58240311ba40f2c4a84c12b45fb778807d
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.1.0-rc.1.tgz
+    version: 1.1.0-rc.1
+  - apiVersion: v1
+    appVersion: 1.1.0-nightly-build
+    created: "2021-11-30T11:05:48.241998773Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 0506e224d445821deb10b93803191012a3eda897e81e99a496044c50e35258e7
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.1.0-nightly-build.tgz
+    version: 1.1.0-nightly-build
+  - apiVersion: v1
+    appVersion: 1.1.0-beta.3
+    created: "2021-11-30T11:05:48.230635725Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 6eae7c753af9a79cd0a5f2f5d604bc342f1177ea21c2f55b2c1166509a7b3e09
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.1.0-beta.3.tgz
+    version: 1.1.0-beta.3
+  - apiVersion: v1
+    appVersion: 1.1.0-beta.2
+    created: "2021-11-30T11:05:48.216816028Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: d918a7cfb274e25af82bf0bd56653d3beedde94dc2932cf932ebf4c16259bb84
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.1.0-beta.2.tgz
+    version: 1.1.0-beta.2
+  - apiVersion: v1
+    appVersion: 1.1.0-beta.1
+    created: "2021-11-30T11:05:48.205776313Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: cc37b34c0ba0528c54422d2f6c6206e2befae49e3682616722115dd0c8d46ec8
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.1.0-beta.1.tgz
+    version: 1.1.0-beta.1
+  - apiVersion: v1
+    appVersion: 1.1.0-alpha.5
+    created: "2021-11-30T11:05:48.195599384Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: f494a43d641b7c773a594b6844bfbc77420746d9c7e59af8b9a1cbd31f37faec
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.1.0-alpha.5.tgz
+    version: 1.1.0-alpha.5
+  - apiVersion: v1
+    appVersion: 1.1.0-alpha.4
+    created: "2021-11-30T11:05:48.187763193Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 03869d58de6ad96a87db8d86f7d6cffa3807fa40236e1a91808eb71b5358118d
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.1.0-alpha.4.tgz
+    version: 1.1.0-alpha.4
+  - apiVersion: v1
+    appVersion: 1.1.0-alpha.3
+    created: "2021-11-30T11:05:48.18061267Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: c390c6f9d9bd8aafd5e5d4940403a07abef571560a71c4a9db591466e94b1881
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.1.0-alpha.3.tgz
+    version: 1.1.0-alpha.3
+  - apiVersion: v1
+    appVersion: 1.1.0-alpha.2
+    created: "2021-11-30T11:05:48.174766879Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: afdce03805bd8559fa46b102784384f3ffecf3f9b62ab4517b8b4a2cb35ce668
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.1.0-alpha.2.tgz
+    version: 1.1.0-alpha.2
+  - apiVersion: v1
+    appVersion: 1.1.0-alpha.1
+    created: "2021-11-30T11:05:48.16972387Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 439f3bc2ace9c80b240c4b5039dcbb45d05cc15748baf174f7c1113150f5db11
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.1.0-alpha.1.tgz
+    version: 1.1.0-alpha.1
+  - apiVersion: v1
+    appVersion: 1.0.7
+    created: "2021-11-30T11:05:48.164049896Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 1def7d21309d46dbbeab25f4b2dc3c49b74c194efc4b148412dc7c03b37d1f80
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.0.7.tgz
+    version: 1.0.7
+  - apiVersion: v1
+    appVersion: 1.0.6
+    created: "2021-11-30T11:05:48.159154602Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: d7a1b8d514593b38974ea3b114f7476a6effa41ed88fda2620049a17a9b297ff
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.0.6.tgz
+    version: 1.0.6
+  - apiVersion: v1
+    appVersion: 1.0.5
+    created: "2021-11-30T11:05:48.153573138Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: c23771cff331632e5637e08709ea20741069024ac39c72c324af7fcdef24c4e6
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.0.5.tgz
+    version: 1.0.5
+  - apiVersion: v1
+    appVersion: 1.0.4
+    created: "2021-11-30T11:05:48.147945269Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 9fc08a460c2620fb2785703d2633f9c78740807a9c8cd64042b95e1d9242ed49
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.0.4.tgz
+    version: 1.0.4
+  - apiVersion: v1
+    appVersion: 1.0.3
+    created: "2021-11-30T11:05:48.139930159Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 8eecbd774e96ed36b5e067e171bab7060106a1df9136d6b318347e18f131a96d
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.0.3.tgz
+    version: 1.0.3
+  - apiVersion: v1
+    appVersion: 1.0.2
+    created: "2021-11-30T11:05:48.135862248Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 227c949333d741dea3c0ec8c9ac576e5c1424c2feeb103fecc7499b4173bdbc4
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v1
+    appVersion: 1.0.1
+    created: "2021-11-30T11:05:48.12914827Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 58ed2fb7928bb2daeb83361868e156ad1e1cc58ccf1d42c4187c33bcde5b55aa
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2021-11-30T11:05:48.125014652Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: f25c5800be037069d8f3472938860a4fc7ffaad20336122b0cf6d8dedb8258be
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v1
+    appVersion: 1.0.0-rc2
+    created: "2021-11-30T11:05:48.120414787Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 735be80f3ec6bdba72955c55396255870c8a61b0c410cee82007cc9984bff481
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.0.0-rc2.tgz
+    version: 1.0.0-rc2
+  - apiVersion: v1
+    appVersion: 1.0.0-rc1
+    created: "2021-11-30T11:05:48.115775518Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 1c58d686c5d58a00eefd92c39a776ae90a7d8813484c7da92340a60a35c5b78b
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-1.0.0-rc1.tgz
+    version: 1.0.0-rc1
+  - apiVersion: v1
+    appVersion: 0.4.0-rc-master
+    created: "2021-11-30T11:05:48.110224857Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 034118aa097c2fe6be04d9b0aacd03a5983bc2cb52eff46300a152b7a6997f3a
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-0.4.0-rc-master.tgz
+    version: 0.4.0-rc-master
+  - apiVersion: v1
+    appVersion: 0.3.9
+    created: "2021-11-30T11:05:48.104262855Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 9abbc3a5ce301e33b41d6c06c3dceaf844559d33c70e7ad78a8f89bd37e600c0
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-0.3.9.tgz
+    version: 0.3.9
+  - apiVersion: v1
+    appVersion: 0.3.8
+    created: "2021-11-30T11:05:48.100857011Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: e00035a38dfd97e38ca4733df1c1637f63ba526def3ca2a60ef67cbc6ffc3d53
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-0.3.8.tgz
+    version: 0.3.8
+  - apiVersion: v1
+    appVersion: 0.3.7
+    created: "2021-11-30T11:05:48.094989818Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: e9a29e4a52f2f8756608b8d459464adf3c02815ad388be192f1b908a9055b57d
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-0.3.7.tgz
+    version: 0.3.7
+  - apiVersion: v1
+    appVersion: 0.3.6
+    created: "2021-11-30T11:05:48.091459061Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 023eccf48321997bb4aca6dbfa42ead8010806a1ba0cb2cc71cb040d95bb66f5
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-0.3.6.tgz
+    version: 0.3.6
+  - apiVersion: v1
+    appVersion: 0.3.5
+    created: "2021-11-30T11:05:48.087838595Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 8339e4f796bb6b6b2d6eec3d5821b2af7d21678a855cc57169cf8a1759550ba4
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-0.3.5.tgz
+    version: 0.3.5
+  - apiVersion: v1
+    appVersion: 0.3.4
+    created: "2021-11-30T11:05:48.084156323Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: fe0f0d66ed0d3ba02d4eec0f8f3fbe707436c8ba7060e5585a040ff9e4ce2202
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-0.3.4.tgz
+    version: 0.3.4
+  - apiVersion: v1
+    appVersion: 0.3.3
+    created: "2021-11-30T11:05:48.080199323Z"
+    description: A Helm chart for legacy KubeVela Core Controller, targeted on Kubernetes
+      v1.14 and v1.15
+    digest: 81764611da3a0b03c3fe1213ebdc497364329325397ddf3e94227a16d9095a8a
+    name: vela-core-legacy
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-core-legacy-0.3.3.tgz
+    version: 0.3.3
+  vela-minimal:
+  - apiVersion: v1
+    appVersion: 1.1.11
+    created: "2021-11-30T11:05:48.41405586Z"
+    description: A Helm chart for KubeVela minimal
+    digest: bfcdf9532a4ee545d0406fbe7a131fea9c1032974d3923088affe1bf6f9bd661
+    home: https://kubevela.io
+    icon: https://kubevela.io/img/logo.jpg
+    name: vela-minimal
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-minimal-1.1.11.tgz
+    version: 1.1.11
+  - apiVersion: v1
+    appVersion: 1.1.10
+    created: "2021-11-30T11:05:48.40960971Z"
+    description: A Helm chart for KubeVela minimal
+    digest: 9de7105e79c7659e7e0314f35dee747ec4c961ffeb3bc7bd3c7c246cf36f64a1
+    home: https://kubevela.io
+    icon: https://kubevela.io/img/logo.jpg
+    name: vela-minimal
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-minimal-1.1.10.tgz
+    version: 1.1.10
+  - apiVersion: v1
+    appVersion: 1.1.9
+    created: "2021-11-30T11:05:48.448919083Z"
+    description: A Helm chart for KubeVela minimal
+    digest: 454c9372f625d2f23798c3fcf1d87bc9bc29557534a6088b68ae31c7674db0e4
+    home: https://kubevela.io
+    icon: https://kubevela.io/img/logo.jpg
+    name: vela-minimal
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-minimal-1.1.9.tgz
+    version: 1.1.9
+  - apiVersion: v1
+    appVersion: 1.1.8
+    created: "2021-11-30T11:05:48.444550041Z"
+    description: A Helm chart for KubeVela minimal
+    digest: c60e181c7f27110e9dba1d77ba724a070cc47c2d45999543c44fef392751bd15
+    home: https://kubevela.io
+    icon: https://kubevela.io/img/logo.jpg
+    name: vela-minimal
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-minimal-1.1.8.tgz
+    version: 1.1.8
+  - apiVersion: v1
+    appVersion: 1.1.7
+    created: "2021-11-30T11:05:48.438955976Z"
+    description: A Helm chart for KubeVela minimal
+    digest: 1808662d2dfb2278320fcd4bd0897f111f9bfee04552ba8218145390e22252ef
+    home: https://kubevela.io
+    icon: https://kubevela.io/img/logo.jpg
+    name: vela-minimal
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-minimal-1.1.7.tgz
+    version: 1.1.7
+  - apiVersion: v1
+    appVersion: 1.1.6
+    created: "2021-11-30T11:05:48.434575433Z"
+    description: A Helm chart for KubeVela minimal
+    digest: ad46470d572cdb87eb71548f660b4021db3ed5175ab976213936d157465c4783
+    home: https://kubevela.io
+    icon: https://kubevela.io/img/logo.jpg
+    name: vela-minimal
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-minimal-1.1.6.tgz
+    version: 1.1.6
+  - apiVersion: v1
+    appVersion: 1.1.5
+    created: "2021-11-30T11:05:48.428784548Z"
+    description: A Helm chart for KubeVela minimal
+    digest: 15c3c1a3c8a124ec5c131507cff331629a3fee3ea49dd335e13e846a5f6878d1
+    home: https://kubevela.io
+    icon: https://kubevela.io/img/logo.jpg
+    name: vela-minimal
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-minimal-1.1.5.tgz
+    version: 1.1.5
+  - apiVersion: v1
+    appVersion: 1.1.4
+    created: "2021-11-30T11:05:48.424525718Z"
+    description: A Helm chart for KubeVela minimal
+    digest: b8b4b1898657e1f2113fe47e9fafdedc26b745d19f0bce32ae91ce65f8dcf0e9
+    name: vela-minimal
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-minimal-1.1.4.tgz
+    version: 1.1.4
+  - apiVersion: v1
+    appVersion: 1.1.3
+    created: "2021-11-30T11:05:48.419858446Z"
+    description: A Helm chart for KubeVela minimal
+    digest: 3c5e7f14f712ae8ad5ad20081332d3591b8c6953268819eb5a5768827fec4ba7
+    name: vela-minimal
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-minimal-1.1.3.tgz
+    version: 1.1.3
+  - apiVersion: v1
+    appVersion: 1.1.0-nightly-build
+    created: "2021-11-30T11:05:48.404628407Z"
+    description: A Helm chart for KubeVela minimal
+    digest: 8425f25751411b203efd26226b29c36a2568fe2806295f9fb969976a3a215d61
+    home: https://kubevela.io
+    icon: https://kubevela.io/img/logo.jpg
+    name: vela-minimal
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-minimal-1.1.0-nightly-build.tgz
+    version: 1.1.0-nightly-build
+  vela-rollout:
+  - apiVersion: v2
+    appVersion: 1.1.11
+    created: "2021-11-30T11:05:48.453317727Z"
+    description: A Helm chart for KubeVela rollout controller.
+    digest: 53ca8da2e60391b9cfa50250f66baa339f9c52fc4dbb5594d34641381a42d495
+    name: vela-rollout
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-rollout-1.1.11.tgz
+    version: 1.1.11
+  - apiVersion: v2
+    appVersion: 1.1.10
+    created: "2021-11-30T11:05:48.45235893Z"
+    description: A Helm chart for KubeVela rollout controller.
+    digest: 3b4754acf266e2cf546291b09305d24ebb0861e7fff40990b97487c25da3059d
+    name: vela-rollout
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-rollout-1.1.10.tgz
+    version: 1.1.10
+  - apiVersion: v2
+    appVersion: 1.1.9
+    created: "2021-11-30T11:05:48.459913994Z"
+    description: A Helm chart for KubeVela rollout controller.
+    digest: 71ae3a4b8cb4eb6c6f29556af13817b70cda3faf26c981f439f1a24569f31340
+    name: vela-rollout
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-rollout-1.1.9.tgz
+    version: 1.1.9
+  - apiVersion: v2
+    appVersion: 1.1.8
+    created: "2021-11-30T11:05:48.459226224Z"
+    description: A Helm chart for KubeVela rollout controller.
+    digest: 45b13663bbbb456682bd1edc8966584602ab159e3d8d41ffe3e9270a3e8090f4
+    name: vela-rollout
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-rollout-1.1.8.tgz
+    version: 1.1.8
+  - apiVersion: v2
+    appVersion: 1.1.7
+    created: "2021-11-30T11:05:48.458498251Z"
+    description: A Helm chart for KubeVela rollout controller.
+    digest: ff96bc6dd18088ed689ed3ca9e37d9d62f675fc9f733218c1c603179af181e95
+    name: vela-rollout
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-rollout-1.1.7.tgz
+    version: 1.1.7
+  - apiVersion: v2
+    appVersion: 1.1.6
+    created: "2021-11-30T11:05:48.457759076Z"
+    description: A Helm chart for KubeVela rollout controller.
+    digest: 49f159978461404c8df781dcf562d1a6a8d87d499d25d54e461df2bb359c57da
+    name: vela-rollout
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-rollout-1.1.6.tgz
+    version: 1.1.6
+  - apiVersion: v2
+    appVersion: 1.1.5
+    created: "2021-11-30T11:05:48.457051104Z"
+    description: A Helm chart for KubeVela rollout controller.
+    digest: dc11eb09963adbd4ba4d408e2f71ab076a7ab855633d0e8d1afeedb73666bc42
+    name: vela-rollout
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-rollout-1.1.5.tgz
+    version: 1.1.5
+  - apiVersion: v2
+    appVersion: 1.1.4
+    created: "2021-11-30T11:05:48.456338932Z"
+    description: A Helm chart for KubeVela rollout controller.
+    digest: 424585478cb1ca08b16b52eb086c203818b3dc8ffd1e2da693338cbd9b4bbf39
+    name: vela-rollout
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-rollout-1.1.4.tgz
+    version: 1.1.4
+  - apiVersion: v2
+    appVersion: 1.1.3
+    created: "2021-11-30T11:05:48.455630961Z"
+    description: A Helm chart for KubeVela rollout controller.
+    digest: 7b05b5cf5adc8107a9c6f1526bc7614beab5064ba5fb80786152bfcac6bd0e8b
+    name: vela-rollout
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-rollout-1.1.3.tgz
+    version: 1.1.3
+  - apiVersion: v2
+    appVersion: 1.1.2
+    created: "2021-11-30T11:05:48.454901787Z"
+    description: A Helm chart for KubeVela rollout controller.
+    digest: 47e9b71df7cd7a3bf5916fbf41b8b11eea324ce1220b2f6b8b0b5bc4920ee1b1
+    name: vela-rollout
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-rollout-1.1.2.tgz
+    version: 1.1.2
+  - apiVersion: v2
+    appVersion: 1.1.1
+    created: "2021-11-30T11:05:48.451149108Z"
+    description: A Helm chart for KubeVela rollout controller.
+    digest: 64d49e0a9686a66ffdaf7e771159c24f3056fe120419b3dfba25837874b8a498
+    name: vela-rollout
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-rollout-1.1.1.tgz
+    version: 1.1.1
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2021-11-30T11:05:48.450391031Z"
+    description: A Helm chart for KubeVela rollout controller.
+    digest: 302fd85d05da36a6fd69f4336970b525e6ed9e46520093f054d893e151cabb3d
+    name: vela-rollout
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-rollout-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v2
+    appVersion: 1.1.0-nightly-build
+    created: "2021-11-30T11:05:48.449649356Z"
+    description: A Helm chart for KubeVela rollout controller.
+    digest: 056e3da374f4d5f5666a5c46f2872cb44d359724e2551fc12d1fbab1214e3719
+    name: vela-rollout
+    type: application
+    urls:
+    - https://kubevelacharts.oss-cn-hangzhou.aliyuncs.com/core/vela-rollout-1.1.0-nightly-build.tgz
+    version: 1.1.0-nightly-build
+generated: "2021-11-30T11:05:47.69808031Z"
